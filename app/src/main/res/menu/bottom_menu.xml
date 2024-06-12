@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_kalkulator"
+        android:title="Kalkulator"
+        android:icon="@drawable/baseline_calculate_black"/>
+
+    <item
+        android:id="@+id/bottom_suhu"
+        android:title="Konversi Suhu"
+        android:icon="@drawable/baseline_sunny_24"/>
+
+</menu>
